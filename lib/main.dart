@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:video_project/provider/movie_provider.dart';
-import 'package:video_project/spalsh_screen.dart';
 import 'package:provider/provider.dart';
+import 'package:video_project/splash_screen.dart';
 
 void main() {
   runApp(
